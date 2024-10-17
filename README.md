@@ -7,4 +7,4 @@
 ### 🙇 안녕하세요, Full-Stack Programmer로 성장해나가고 있는 손원입니다!
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=______&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonwon&layout=compact)
